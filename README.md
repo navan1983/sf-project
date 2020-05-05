@@ -2,4 +2,5 @@
 
 #Adding a new line from feature branch
 
-# Update from branch-1 
+Added this line in branch 2 -- (Fixed the merge conflict)
+
